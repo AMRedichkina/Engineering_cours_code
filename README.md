@@ -2,6 +2,7 @@
 
 **DE Zoomcamp 2023**  
 Week 1  
+**PART 1**
 Automation using Docker containers (file uploads, database conversions, using pgadmin for SQL queries)  
 
 **Technologies:**
@@ -70,3 +71,12 @@ python3 ingest_data.py \
      --table_name=yellow_taxi_trips \
      --url=${URL}
 ```
+
+**PART 2**
+** Local Setup for Terraform and GCP**
+
+** Pre-Requisites**
+1. Terraform client installation: https://www.terraform.io/downloads
+2. Cloud Provider account: https://console.cloud.google.com/ 
+
+Create base infrastructure.
