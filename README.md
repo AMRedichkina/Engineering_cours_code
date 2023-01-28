@@ -1,17 +1,17 @@
 # Engineering_cours_code
-DE Zoomcamp 2023 projects and homeworks. Week1.
+DE Zoomcamp 2023.
+Week 1
 Automation using Docker containers (file uploads, database conversions, using pgadmin for SQL queries)
 
 **Technologies:**
--- Python 3.9
--- Docker 20.10.20
--- Docker-compose 2.12.0
--- Pandas 1.3.5
--- Psycopg2 2.9.5
--- PGAdmin
+_- Python 3.9_
+_- Docker 20.10.20_
+_- Docker-compose 2.12.0_
+_- Pandas 1.3.5_
+_- Psycopg2 2.9.5_
+_- PGAdmin_
 
-
-Automation using containers: file uploads, database conversions, using pgadmin for sql queries
+**Resourses:**
 Downloading ...:
 URL="https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz"
 URL="https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv" (to get the database, you need to remove the format conversion to injest_data.py)
