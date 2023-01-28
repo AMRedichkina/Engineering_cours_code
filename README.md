@@ -1,4 +1,4 @@
-# Engineering_cours_code
+# Engineering_course_code
 
 **DE Zoomcamp 2023**  
 Week 1  
