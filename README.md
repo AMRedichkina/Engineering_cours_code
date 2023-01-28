@@ -1,6 +1,6 @@
 # Engineering_cours_code
 
-DE Zoomcamp 2023.  
+**DE Zoomcamp 2023**  
 Week 1  
 Automation using Docker containers (file uploads, database conversions, using pgadmin for SQL queries)  
 
