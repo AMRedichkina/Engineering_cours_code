@@ -1,20 +1,20 @@
 # Engineering_cours_code
 
-*DE Zoomcamp 2023.
-*Week 1
-*Automation using Docker containers (file uploads, database conversions, using pgadmin for SQL queries)
+DE Zoomcamp 2023.  
+Week 1  
+Automation using Docker containers (file uploads, database conversions, using pgadmin for SQL queries)  
 
 **Technologies:**
-*_- Python 3.9_
-*_- Docker 20.10.20_
-*_- Docker-compose 2.12.0_
-*_- Pandas 1.3.5_
-*_- Psycopg2 2.9.5_
-*_- PGAdmin_
+_- Python 3.9_  
+_- Docker 20.10.20_  
+_- Docker-compose 2.12.0_  
+_- Pandas 1.3.5_  
+_- Psycopg2 2.9.5_  
+_- PGAdmin_  
 
 **Resourses:**
-*URL="https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz"
-*URL="https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv" (to get the database, you need to remove the format conversion to injest_data.py)
+URL="https://github.com/DataTalksClub/nyc-tlc-data/releases/download/green/green_tripdata_2019-01.csv.gz"  
+URL="https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv" (to get the database, you need to remove the format conversion to injest_data.py)  
 
 **Docker Practice:**
 ```
